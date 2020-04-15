@@ -1,7 +1,6 @@
-#include <stdlib.h>
+#include <stdio.h>
 
-int32_t Hello(const char* message)
+int32_t HelloWorld()
 {
-    printf(message);
     return 0;
 }
